@@ -15,6 +15,5 @@ This is my personal portfolio website showcasing my professional profile, skills
 https://ravipandey16.vercel.app/ 
 
 **📌 About Me**
-Research-driven professional focused on building internal products and managing digital platforms.
-
+I am a research-driven IT professional with experience in product development and digital platform management. I work on building internal business solutions, supporting data-driven decision-making, and managing websites to ensure smooth functionality and performance. I focus on converting ideas and requirements into practical, real-world technology solutions that improve processes, system efficiency, and overall business operations while continuously learning and delivering value through technology and research.
 
