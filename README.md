@@ -12,7 +12,7 @@ This is my personal portfolio website showcasing my professional profile, skills
 
 
 **🌐 Live Preview**
-
+https://ravipandey16.vercel.app/ 
 
 **📌 About Me**
 Research-driven professional focused on building internal products and managing digital platforms.
