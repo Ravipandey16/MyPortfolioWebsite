@@ -5,29 +5,11 @@ This is my personal portfolio website showcasing my professional profile, skills
 ✨ Features
 
 Responsive and modern design
-
 Project showcase with category-based filtering
-
 About, Skills, and Contact sections
-
 Resume download option
-
 Smooth navigation and interactions
 
-🛠️ Tech Stack
-
-HTML5
-
-CSS3
-
-**JavaScript**
-📂 Project Structure
-├── index.html
-├── index.css
-├── script.js
-├── src/
-│   ├── image/
-│   └── resume.pdf
 
 🌐 Live Preview
 
